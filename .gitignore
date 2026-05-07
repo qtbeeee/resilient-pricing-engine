@@ -1,0 +1,23 @@
+# Environments
+venv/
+.env
+
+# Data and Databases
+data/
+processed/
+pricelens
+*.db
+*.sqlite3
+
+# Python Cache and Compiled Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
